@@ -1,0 +1,3 @@
+<?php
+
+$mainURL = 'http://localhost/';
